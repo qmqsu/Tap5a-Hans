@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.AppleDouble
+.LSOverride
+
+# 编辑器 / 系统临时文件
+*.swp
+*~
